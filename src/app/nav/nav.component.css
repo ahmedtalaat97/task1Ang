@@ -1,0 +1,9 @@
+.bg-custom{
+    background-color: #2c3e50;
+}
+.activelink{
+    background-color: #1abc9c;
+    border-radius: 5px;
+    color: white;
+    font-weight: bolder;
+}

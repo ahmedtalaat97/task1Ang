@@ -1,0 +1,8 @@
+.main{
+    margin-top: 106px;
+    min-height: calc(100vh - 106px);
+}
+.btn-color{
+    background-color: #1abc9c;
+    color: white;
+}

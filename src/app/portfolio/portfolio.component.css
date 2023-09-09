@@ -1,0 +1,21 @@
+.main{
+    margin-top: 106px;
+    min-height: calc(100vh - 106px);
+}
+.layer{
+    background-color: #1abc9c;
+    opacity: 0;
+    transition: opacity 0.5s;
+    cursor: pointer;
+}
+.layer:hover{
+    opacity: 1;
+}
+.bg-opactiy{
+    background-color: rgba(13,110,253,0.25);
+    z-index: 999;
+}
+.bg-opactiy img{
+    width: 600px;
+    opacity: 1;
+}

@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+.whiteline{
+    width: 80px;
+    height: 5px;
+    background-color: white;
+}
+.home{
+    background-color: #1abc9c;
+}
+.darkline{
+    width: 80px;
+    height: 5px;
+    background-color: rgb(44, 62, 80);
+}
